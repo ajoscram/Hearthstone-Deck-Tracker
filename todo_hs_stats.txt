@@ -1,0 +1,9 @@
+to-do:
+	the user should be able to sort recorded data depending on date ranges
+	improve the performance issues by adding proper int counters to wins and losses to the deck class, file archives remain unchanged
+	fix label data on the deckeditwindow
+	color each card on the jLists in decklistWindow depending on rarity
+	display cards properly on the search tab by sorting them manually on the file
+done:
+	improve the match history GUI with a jtable and some way to display date ranges 
+	change the jdialog deck window to a jframe so that the windows taskbar icon is shown when a specific deck is chosen
